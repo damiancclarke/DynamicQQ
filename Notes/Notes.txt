@@ -1,0 +1,28 @@
+********************************************************************************
+This model assumes that parents optimise on child quality and child quality
+based on expected labour market returns over the life of the child.  This is
+semi-altruistic behaviour on the part of the parent.  This is a structural
+model explaining, in micro-terms, why quality and quantity jointly enter a 
+parent's utility function.
+
+Quantity is measured in terms of number of children.  Quality is measured in 
+terms of years of education and how a parent perceives that a student performs
+relative to his or her cohort.  The parent invests in quality/quantity and other 
+goods.  What's more, parents are allowed to invest differentially in children.  
+
+This is a dynamic model.  Parents observe their child's quality at each point
+in time and optimally determine how much to invest based on this and the
+prevailing returns to quality and quantity in the labour market.  The 
+uncertainty in the model comes from (a) uncertainty regarding how the child's
+quality evolves over life (depending upon, among other things, whether the
+child keeps advancing in school), and (b) the future returns in the labour
+market.  It is assumed that parents gather their signal for returns to quantity 
+and quality based on current returns, and that this is expected to follow a 
+Markov process.  There is also uncertainty regarding the survival prospects of
+the child, which depend upon his or her expected work type.
+
+We estimate this model in the context of a labour market with high rates of 
+risky jobs depending upon the geographic location of the family.  This implies
+that families in certain areas will optimally invest more in quantity and less
+in quality if they expect that in this area there is a higher chance that 
+children will enter risky, low-return jobs.
