@@ -3,7 +3,6 @@
 *
 
 /*
-
 Questionnaires: b1 b2 b3_a b3_b b4 b5 bc [bd] bea ben bs bx
 Years:          2002 2005 2009
 
@@ -15,6 +14,11 @@ Years:          2002 2005 2009
 > bx : Household member characteristics
 
 Contact mailto:damian.clarke@economics.ox.ac.uk
+
+To do:
+(1) Find measure of all in family
+(2) Generate total fertility
+(3) Generate basic quality variables by age
 */
 
 vers 11
